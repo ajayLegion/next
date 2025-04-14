@@ -1,3 +1,36 @@
+# 🚀 My Next.js App
+
+A modern web application built with [Next.js](https://nextjs.org/), the React framework for production.
+
+## 📦 Features
+
+- ⚡ Server-side rendering (SSR) and static site generation (SSG)
+- 🔥 Built-in routing with file-based routing system
+- 🌐 API routes
+- 💅 Styled with [Tailwind CSS](https://tailwindcss.com) (optional)
+- 🔒 SEO-friendly
+- 🧪 Jest and React Testing Library (optional)
+
+## 🛠️ Getting Started
+
+### Prerequisites
+
+Make sure you have the following installed:
+
+- [Node.js](https://nodejs.org/) (v16 or newer)
+- npm or [Yarn](https://yarnpkg.com/)
+
+### Installation
+
+Clone the repository and install dependencies:
+
+```bash
+git clone https://github.com/ajayLegion/Next.js-Template.git
+cd your-nextjs-app
+npm install
+# or
+yarn install
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
